@@ -9,7 +9,7 @@
 2. A database is ultimately a collection of tables that consists of rows and columns. 
 3. You can have multiple sheets in a single spreadsheet using Google Sheets. It is eventually resembles a relational data base.
 4. **Google App Scripts**
-_ Google has a free runtime that allows anyone to write and run custom scripts on Google products like Google Sheets. 
+_Google has a free runtime that allows anyone to write and run custom scripts on Google products like Google Sheets. 
 5. **It's free when working on personal projects like these**
 
 
