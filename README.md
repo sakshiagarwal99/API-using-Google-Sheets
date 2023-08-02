@@ -1,6 +1,6 @@
 # API-using-Google-Sheets
 
-- In this mini-project, I have built a [website] ([file:///Users/sakshiagarwal/Desktop/GitHub%20Files/API-using-Google-Sheets/index.html](https://mlh-events-dashboard--sakshiagarwal13.repl.co/)) that hosts data directly from Major League Hacking's [Events Page](https://mlh.io/seasons/2024/events). 
+- In this mini-project, I have built a [website]([file:///Users/sakshiagarwal/Desktop/GitHub%20Files/API-using-Google-Sheets/index.html](https://mlh-events-dashboard--sakshiagarwal13.repl.co/)) that hosts data directly from Major League Hacking's [Events Page](https://mlh.io/seasons/2024/events). 
 * The data used in the website like the Events Name, Date, Location, Image and Events Link are all derived from Google Sheets.
 
 ## Why Google Sheets? 
